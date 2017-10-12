@@ -30,7 +30,7 @@ var displayArray = function(array, lowest, index) {
             stroke(0, 255, 38);
             line(x-2, y+2, x+11, y+2);
         }
-        
+          
         x=x+25;
     }
     y=y+25;
